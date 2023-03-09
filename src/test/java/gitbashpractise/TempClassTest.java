@@ -7,6 +7,7 @@ public class TempClassTest {
 	public void tempMethod()
 	{
 		System.out.println("Temporary method");
+		System.out.println("method");
 	}
 }
 //pushed
